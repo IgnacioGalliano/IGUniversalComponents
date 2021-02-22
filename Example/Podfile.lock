@@ -1,0 +1,18 @@
+PODS:
+  - IGUniversalComponents (0.1.0):
+    - IGUniversalComponents/Core (= 0.1.0)
+    - IGUniversalComponents/Integration (= 0.1.0)
+
+DEPENDENCIES:
+  - IGUniversalComponents (from `../`)
+
+EXTERNAL SOURCES:
+  IGUniversalComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IGUniversalComponents: 83ac615acd9b87d00b6d44111ee8e467a5528238
+
+PODFILE CHECKSUM: 2c7aadb24440375fd4f06afa231027ecfbc3009c
+
+COCOAPODS: 1.8.4

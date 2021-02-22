@@ -22,7 +22,8 @@ pod 'IGUniversalComponents'
 
 ## Author
 
-Ignacio Galliano, ignacio.galliano@mercadolibre.com
+Ignacio Galliano, gallianoignacio@gmail.com
+
 
 ## License
 
